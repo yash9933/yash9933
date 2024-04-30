@@ -11,6 +11,3 @@ Master's in Computer Science 🎓 | Software Engineer 💻 | Passionate about cr
 ![](https://github-readme-stats.vercel.app/api?username=yash9933&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yash9933&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yash9933&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
